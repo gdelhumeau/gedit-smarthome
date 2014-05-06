@@ -1,7 +1,7 @@
 gedit-smarthome
 ===============
 
-A simple plugin for [gEdit](https://wiki.gnome.org/Apps/Gedit) that enable the ["Smart Home/End" option of GTKSourceView](https://developer.gnome.org/gtksourceview/stable/GtkSourceView.html#GtkSourceSmartHomeEndType). 
+A simple plugin for [gEdit](https://wiki.gnome.org/Apps/Gedit) to move the cursor to the first non-whitespace character when pressing on the "home" button.
 
 * When you press the "home" button, then the cursor moves to the first non-whitespace character on the first press and to the beginning of the line on the second press.
 * When you press the "end" button, then the cursor moves to the last non-whitespace character on the first press and to the end of the line on the second press.
